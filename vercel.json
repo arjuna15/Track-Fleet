@@ -34,8 +34,10 @@
     }
   ],
   "env": {
+    "APP_NAME": "TrackFleet",
     "APP_ENV": "production",
-    "APP_DEBUG": "true",
+    "APP_KEY": "base64:ummgeSl32hyQWeLWyH7WTpKCRm52StPogaHl+glbgx4=",
+    "APP_DEBUG": "false",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
     "APP_PACKAGES_CACHE": "/tmp/packages.php",
